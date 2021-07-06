@@ -1,17 +1,14 @@
-# clean_arch_experts
+<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
 
-A new Flutter project.
+# Usando Clean Archteture com Flutter
 
-## Getting Started
+Utilizar Clean Archteture com Flutter não é uma tarefa tão simples, mas traz grandes usabilidades e benefícios.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Nessa série de vídeos vamos mergulhar no mundo do Clean Archteture, vamos ver como utlizar casos de uso, criar repositórios e criar testes unitários para cada funcionalidade, além de ver as grandes vantagens do uso da mesma.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Expert
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-clean-arch2021-07-05
+| [<img src="https://avatars.githubusercontent.com/u/23418948?s=460&u=da2788c88f381c94c419ac3f615324bfdbea807e&v=4" width="75px;"/>](https://github.com/RenatoLucasMota) |
+| :-: |
+|[Renato Mota](https://github.com/RenatoLucasMota)|
